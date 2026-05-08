@@ -18,21 +18,21 @@ This repository contains my personal portfolio and an overview of the projects I
 
 ### Java
 
-- [Java Swing Todo MVC](https://github.com/FuscoJr/todapp-mvc)  
+- [Java Swing Todo MVC](https://github.com/FuscoJr/java-swing-todo-mvc)  
   A simple todo application built with Java Swing using the MVC pattern.
 
-- [Mini Library CLI](https://github.com/FuscoJr/mini-library-cli)  
+- [Mini Library CLI](https://github.com/FuscoJr/java-library-cli)  
   A small command-line application for managing books in a library.
 
-- [Java Cryptography CLI](https://github.com/FuscoJr/java-cryptograph)  
+- [Java Cryptography CLI](https://github.com/FuscoJr/java-cryptography)  
   A command-line tool for encrypting and decrypting text with a password.
 
 ### Python
 
-- [Python Calculator](https://github.com/FuscoJr/Python-Calculator)  
+- [Python Calculator](https://github.com/FuscoJr/python-calculator)  
   A basic calculator created as an early programming exercise.
 
-- [Tic Tac Toe Python](https://github.com/FuscoJr/tic-tac-toe-python_V0.5)  
+- [Tic Tac Toe Python](https://github.com/FuscoJr/python-tic-tac-toe)  
   A small terminal-based tic-tac-toe project.
 
 ### Web Development
