@@ -24,7 +24,7 @@ This repository contains my personal portfolio and an overview of the projects I
 - [Mini Library CLI](https://github.com/FuscoJr/java-library-cli)  
   A small command-line application for managing books in a library.
 
-- [Java Cryptography CLI](https://github.com/FuscoJr/java-cryptography)  
+- [Java Cryptography CLI](https://github.com/FuscoJr/java-cryptography-cli)  
   A command-line tool for encrypting and decrypting text with a password.
 
 ### Python
