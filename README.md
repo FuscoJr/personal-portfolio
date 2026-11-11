@@ -4,7 +4,9 @@ Mein persönliches Portfolio während der Umschulung zum Fachinformatiker – An
 
 I'm currently training as a **Fachinformatiker für Anwendungsentwicklung** at WBS Training in Kempten, Germany.
 
-This repository contains my personal portfolio and an overview of the projects I build during my training.
+This repository preserves an early portfolio outline from my vocational retraining. It is a historical overview, not my current professional website.
+
+My current web project is [Slime Guides](https://www.slimeguides.com), a video-game wiki and guides hub that I maintain and continue to improve. My future professional website, Fusco.dev, is in its initial planning and setup phase.
 
 ## About me
 
@@ -25,7 +27,7 @@ This repository contains my personal portfolio and an overview of the projects I
   A small command-line application for managing books in a library.
 
 - [Java Cryptography CLI](https://github.com/FuscoJr/java-cryptography-cli)  
-  A command-line tool for encrypting and decrypting text with a password.
+  An educational reversible text-transformation experiment. It does not provide secure encryption; development has ended.
 
 ### Python
 
@@ -44,9 +46,9 @@ This repository contains my personal portfolio and an overview of the projects I
 - **Personal Portfolio Website**  
   Work in progress.
 
-## Current focus
+## Learning interests recorded in this outline
 
-My current focus is improving my skills in:
+This outline originally listed the following learning interests:
 
 - Java
 - Object-Oriented Programming
@@ -61,4 +63,4 @@ My current focus is improving my skills in:
 
 ## Contact
 
-- [LinkedIn Profile](TU_LINK_DE_LINKEDIN)
+- [GitHub](https://github.com/FuscoJr)
